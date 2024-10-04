@@ -1,1 +1,2 @@
-console.log"eae"
+let nome = "guizadas"
+console.log"nome"
